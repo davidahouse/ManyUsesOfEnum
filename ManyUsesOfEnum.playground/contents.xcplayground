@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios' display-mode='rendered' executeOnSourceChanges='false'>
+    <pages>
+        <page name='Table Of Contents'/>
+        <page name='Constants - Globals'/>
+        <page name='Constants - Object'/>
+        <page name='Constants - Nesting'/>
+        <page name='Constants - Weird Nesting'/>
+        <page name='Constants - Nested Under Type'/>
+        <page name='Stringly Typed Images'/>
+        <page name='Stringly Typed Endpoints'/>
+        <page name='Better Stringly Typed Enpoints'/>
+        <page name='AssociatedEquality'/>
+        <page name='Function Parameters'/>
+        <page name='Data Task Callback'/>
+        <page name='Expression Parsing'/>
+        <page name='State Management 1'/>
+        <page name='State Management 2'/>
+        <page name='State Management 3 '/>
+        <page name='State Management 4 '/>
+    </pages>
+</playground>
